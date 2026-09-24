@@ -2,6 +2,10 @@
 
 > An automatic Python script for generating a set of Minecraft skins based on an image map (`map.png`). The script slices the pattern into blocks and embeds them in the base skin texture.
 
+## Example screenshot
+<img width="650" height="300" alt="Screenshot 2026-09-24 084606" src="https://github.com/user-attachments/assets/3298730d-ee44-479a-8580-e096437cf8ab" />
+
+
 ---
 
 ## Features
